@@ -1,0 +1,54 @@
+{
+    "name": "Supernatural Creatures #724",
+    "description": "Supernatural Creatures: A multimodal NFT collection using generative AI animation driven by audio, merging abstract generative art and character design. Art by Koshi Mazaki. Licence:cc0",
+    "symbol": "SUPERC",
+    "seller_fee_basis_points": 750,
+    "collection": {
+        "name": "Supernatural Creatures",
+        "family": "Supernatural Creatures"
+    },
+    "image": "https://raw.githubusercontent.com/KoshiGlitch/SupernaturalCreatures/main/webp/724.webp",
+    "external_url": "https://supernaturalcreatures.xyz",
+    "attributes": [
+        {
+            "trait_type": "Material",
+            "value": "Liquid Plastic"
+        },
+        {
+            "trait_type": "Morph Type",
+            "value": "Dual"
+        },
+        {
+            "trait_type": "Movement",
+            "value": "Plastic Morph"
+        },
+        {
+            "trait_type": "Audio",
+            "value": "Supernatural Morph"
+        },
+        {
+            "trait_type": "Extra",
+            "value": "Neon Metal"
+        }
+    ],
+    "properties": {
+        "category": "video",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/KoshiGlitch/SupernaturalCreatures/main/mp4/724.mp4",
+                "type": "video/mp4"
+            },
+            {
+                "uri": "https://raw.githubusercontent.com/KoshiGlitch/SupernaturalCreatures/main/webp/724.webp",
+                "type": "image/webp"
+            }
+        ],
+        "creators": [
+            {
+                "address": "9MArmJp1BzpnuoGjxhh35Mrbst1gLPsMnKFuvvpn8jW2",
+                "share": 100
+            }
+        ]
+    },
+    "animation_url": "https://raw.githubusercontent.com/KoshiGlitch/SupernaturalCreatures/main/mp4/724.mp4"
+}
